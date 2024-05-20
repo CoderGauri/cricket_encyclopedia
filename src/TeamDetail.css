@@ -1,0 +1,20 @@
+/* src/TeamDetail.css */
+
+.team-detail {
+    border: 1px solid #ddd;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .team-detail h2 {
+    margin: 0;
+    color: inherit;
+  }
+  
+  .team-detail p {
+    margin: 10px 0;
+    color: inherit;
+  }
+  
