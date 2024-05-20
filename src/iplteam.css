@@ -1,0 +1,118 @@
+/* src/iplteam.css */
+li {
+  border: 1px solid #ddd;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 50px;
+  flex: 1 0 21%;
+  box-sizing: border-box;
+  max-width: 21%;
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+li h2 {
+  margin: 0;
+  color: inherit;
+}
+
+li p {
+  margin: 5px 0;
+  color: inherit;
+}
+
+.csk {
+  background-color: #f8d800;
+  color: #000;
+}
+
+.csk:hover {
+  background-color: #ebd559;
+  transform: scale(1.05);
+}
+
+.dc {
+  background-color: #174ea6;
+  color: #fff;
+}
+
+.dc:hover {
+  background-color: #4889ea;
+  transform: scale(1.05);
+}
+
+.kxip {
+  background-color: #d96c75;
+  color: #fff;
+}
+
+.kxip:hover {
+  background-color: #e21a3a;
+  transform: scale(1.05);
+}
+
+.kkr {
+  background-color: #3b2b7c;
+  color: #fff;
+}
+
+.kkr:hover {
+  background-color: #5d5194;
+  transform: scale(1.05);
+}
+
+.mi {
+  background-color: #004ba0;
+  color: #fff;
+}
+.mi:hover {
+  background-color: #5180b2;
+  transform: scale(1.05);
+}
+
+.rr {
+  background-color: #ea1a84;
+  color: #fff;
+}
+
+.rr:hover {
+  background-color: #a46588;
+  transform: scale(1.05);
+}
+
+.rcb {
+  background-color: #000;
+  color: #d11a2a;
+}
+
+.rcb:hover {
+  background-color: #736f6f;
+  transform: scale(1.05);
+}
+
+.srh {
+  background-color: #f47216;
+  color: #000;
+}
+
+.srh:hover {
+  background-color: #b77b4a;
+  transform: scale(1.05);
+}
+.lsg {
+  background-color: #9fcbcf;
+  color: #000;
+}
+
+.lsg:hover{
+  background-color: #b1d0d3;
+  transform: scale(1.05);
+}
+.gt {
+  background-color: #073c8d;
+  color: #000;
+}
+
+.gt:hover {
+  background-color: #1c4a8f;
+  transform: scale(1.05);
+}
